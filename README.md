@@ -18,8 +18,16 @@
 - ⚡ Fun fact **Every professional once a noob**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+- [ How I was able to find a Publicly Exposed grafana instance by just analyzing the javascript code ](https://nithissh.com/posts/How-I-was-able-to-find-a-publicly-exposed-by-analyzing-their-javascript-code-lark/)
+
+- [ Accidental finding of Reflected XSS to a Frustrating decision - Hackerone Program ](https://nithissh.com/posts/Accidental-Finding-of-Reflected-XSS-to-a-Frustrating-decision-Hackerone-Program/)
+
+- [ Will Updating a User-profile leads to Application level DOS - Microweber CMS ](https://nithissh.com/posts/Will-Updating-a-User-profile-leads-to-Application-level-DOS-Microweber-CMS/)
+
+- [ Remote Code Execution by Abusing the Cookie Header ](https://nithissh.com/posts/Remote-Code-Execution-by-Abusing-the-cookie-Header/)
+
+- [ Story of How I was able to find two RCEs in US dept of defense assets ](https://nithissh.com/posts/story-of-how-i-was-able-to-find-two-rces-in-us-dept-of-defense-assets/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
