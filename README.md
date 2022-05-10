@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithissh</h1>
-<h3 align="center">A passionate Security engineer working in Tata Elxsi and</h3>
+<h3 align="center">A passionate Security engineer working in Tata Elxsi and Security Researcher</h3>
 
 <p align="left"> <a href="https://twitter.com/punkie1337" target="blank"><img src="https://img.shields.io/twitter/follow/punkie1337?logo=twitter&style=for-the-badge" alt="punkie1337" /></a> </p>
 
